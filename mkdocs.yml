@@ -1,0 +1,80 @@
+site_name: Army Direct Commission Course
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    #- navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  logo: assets/logo.png
+  language: en
+  palette:
+    - scheme: default
+      toggle: 
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: grey
+      accent: yellow
+    - scheme: slate
+      toggle: 
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: yellow
+      accent: black
+  icon:
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+      shield: material/shield-alert
+
+markdown_extensions: 
+  #- pymdownx.highlight:
+  #    anchor_lineums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - toc:
+      permalink: true
+  - attr_list
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  
+extra:
+  analytics:
+    provider: google
+    #property: G-XXXXXXXXXX
+
+extra:
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com
+copyright: |
+  &copy; 2024 <a href="" target="_blank" rel="noopener">US Army</a>
