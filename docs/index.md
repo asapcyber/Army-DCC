@@ -8,8 +8,8 @@ course where you will be challenged physically, mentally, and emotionally.
 ## Welcome Packet
 Students can review the welcome packet for information on:
 
-- DCC Packing list
-- TA-50 Packing if assigned by home unit
+- [DCC Packing list](https://docs.google.com/document/d/1cqTiQLl6M-tSVpAvCv_AwF0660PFZwZH/edit?usp=drive_link&ouid=107736273964190199595&rtpof=true&sd=true).
+- [TA-50 Packing if assigned by home unit](https://docs.google.com/document/d/1jTgpnKqY4VKoT4Ra7uoMaczCuhHJ2svc/edit?usp=drive_link&ouid=107736273964190199595&rtpof=true&sd=true)
 
 ## Leadership
 
