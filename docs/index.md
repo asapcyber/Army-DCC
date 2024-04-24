@@ -16,6 +16,11 @@ Students can review the welcome packet for information on:
 In order to provide the best level of instruction and impart the US Army Doctrine to DCC students in 6 weeks, we rely on 
 a set of strong leaders from all ranks in the Infantry School.
 
+!!! quote
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
 
 
 ## Policies

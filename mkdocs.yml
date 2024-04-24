@@ -64,7 +64,10 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-  
+
+#plugins:
+#  - optimize
+
 extra:
   analytics:
     provider: google
@@ -73,7 +76,7 @@ extra:
 extra:
   social:
     - icon: fontawesome/brands/facebook
-      link: https://facebook.com
+      link: https://www.facebook.com/ECoDCC311thINRegtOCS/
     - icon: fontawesome/brands/instagram
       link: https://instagram.com
 copyright: |
